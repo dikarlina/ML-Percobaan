@@ -607,3 +607,6 @@ for i, acc_fold in enumerate(final["acc_per_fold"], 1):
 print("\n" + "="*60)
 print("SELESAI")
 print("="*60)
+
+
+print("Ayo Coba Lagi")
