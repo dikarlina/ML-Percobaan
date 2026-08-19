@@ -610,3 +610,4 @@ print("="*60)
 
 
 print("Ayo Coba Lagi")
+print("Bismillah Lancar Magang")
